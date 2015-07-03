@@ -10,8 +10,9 @@ body {
 	padding: 0px;
 	background: #FFFFFF url(../images/img02.jpg) repeat-x left top;
 	font-family: 'Abel', sans-serif;
-	font-size: 14px;
-	color: #969493;
+	font-size: 18px;
+	/*font-size: 14px;*/
+	/*color: #969493;*/
 }
 
 h1, h2, h3 {
@@ -226,6 +227,12 @@ a:hover {
 
 #content {
 	float: left;
+	/*width: 640px;*/
+	padding: 0px 0px 0px 0px;
+}
+
+#content1 {
+	float: left;
 	width: 640px;
 	padding: 0px 0px 0px 0px;
 }
@@ -245,7 +252,7 @@ a:hover {
 	border: none;
 	letter-spacing: 1px;
 	text-align: left;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 	font-size: 30px;
 	font-weight: normal;
 	color: #000000;
@@ -348,7 +355,7 @@ a:hover {
 	padding-left: 30px;
 	letter-spacing: 1px;
 	text-align: left;
-	text-transform: uppercase;
+	/*text-transform: uppercase;*/
 	font-size: 30px;
 	font-weight: normal;
 	color: #000000;

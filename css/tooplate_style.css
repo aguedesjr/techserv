@@ -1,0 +1,61 @@
+/*
+Template 2031 Green Age
+http://www.tooplate.com/view/2031-green-age
+*/
+
+.cleaner { clear: both }
+.h10 { height: 10px }
+.h20 { height: 20px }
+.h30 { height: 30px }
+.h40 { height: 40px }
+.h50 { height: 50px }
+.h60 { height: 60px }
+
+#cp_contact_form { 
+	padding: 0; 
+	width: 400px; 
+}
+
+#cp_contact_form form { 
+	margin: 0px; 
+	padding: 0px; 
+}
+
+#cp_contact_form form .input_field { 
+	width: 390px; 
+	padding: 10px;
+	border: 1px solid #ccc;  
+	color: #333;
+	background: #fff; 
+	font-family: Verdana,Geneva,sans-serif;
+	font-size: 12px;
+	margin-top: 5px;
+}
+
+#cp_contact_form form label { 
+	display: block; 
+	width: 100px; 
+	margin-right: 10px; 
+	font-size: 14px; 
+}
+
+#cp_contact_form form textarea { 
+	width: 390px; 
+	height: 160px; 
+	padding: 10px; 
+	border: 1px solid #ccc;  
+	color: #333;
+	background: #fff; 
+	font-family: Verdana,Geneva,sans-serif;
+	font-size: 12px;
+	margin-top: 5px;
+}
+
+#cp_contact_form form .submit_btn { 
+	margin: 5px 0px;
+	padding: 10px 20px; 
+	text-decoration: none; 
+	background: #fff; 
+	border: 1px solid #ccc;
+	font-size: 14px;   
+}
