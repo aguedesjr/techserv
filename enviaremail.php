@@ -6,16 +6,12 @@
   $nome = $_POST['author'];
   // 3 - resgatar o assunto digitado no formulário e  grava na variavel //$assunto
   $assunto = $_POST['subject'];
-  //4 - resgatar endereco
-  $endereco = $_POST['endereco'];
   //5 - resgatar telefone
   $tel = $_POST['tel'];
   //6 - resgatar email
   $email = $_POST['email'];
-  //7 - resgatar condominio
-  $condominio = $_POST['condominio'];
-  //8 - resgatar sindico
-  $sindico = $_POST['sindico'];
+  
+  
   
   
    //9 – Agora definimos a  mensagem que vai ser enviado no e-mail
@@ -23,8 +19,6 @@
   $mensagem .= "<br>  <strong>E-mail: </strong>".$_POST['email'];
   $mensagem .= "<br>  <strong>Endereço: </strong>".$_POST['endereco'];
   $mensagem .= "<br>  <strong>Tel: </strong>".$_POST['tel'];
-  $mensagem .= "<br>  <strong>Condominio: </strong>".$_POST['condominio'];
-  $mensagem .= "<br>  <strong>Síndico: </strong>".$_POST['sindico'];
   $mensagem .= "<br>  <strong>Mensagem: </strong>".$_POST['text'];
 
 //10 – agora inserimos as codificações corretas e  tudo mais.
