@@ -29,7 +29,18 @@
 					<div style="clear: both;">&nbsp;</div>
 					<div class="entry">
 						<p>Confira abaixo aulguns dos nossos clientes.</p>
-						<center><img src="images/clientes.png" alt="Clientes" /></center>
+						<table cellpadding="10" cellspacing="10" border="0">
+							<tr>
+								<td><img src="images/conenge.gif" alt="" /></td>
+								<td><img src="images/serins.jpg" alt="" /></td>
+								<td><img src="images/investcity.jpg" alt="" /></td>
+							</tr>
+							<tr>
+								<td align="center"><img src="images/eureka.png" alt="" /></td>
+								<td><img src="images/posto_lider.png" alt="" /></td>
+								<td><img src="images/forros_fluminense.png" alt="" /></td>
+							</tr>
+						</table>
 					</div>
 				</div>
 			</div>
